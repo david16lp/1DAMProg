@@ -1,0 +1,14 @@
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\bin\Debug\net8.0\SolicitudesAdministracion.exe
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\bin\Debug\net8.0\SolicitudesAdministracion.deps.json
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\bin\Debug\net8.0\SolicitudesAdministracion.runtimeconfig.json
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\bin\Debug\net8.0\SolicitudesAdministracion.dll
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\bin\Debug\net8.0\SolicitudesAdministracion.pdb
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.AssemblyInfoInputs.cache
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.AssemblyInfo.cs
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.csproj.CoreCompileInputs.cache
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.dll
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\refint\SolicitudesAdministracion.dll
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.pdb
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\SolicitudesAdministracion.genruntimeconfig.cache
+C:\Users\Dav\Desktop\Ejercicios\SolicitudesAdministracion\SolicitudesAdministracion\obj\Debug\net8.0\ref\SolicitudesAdministracion.dll
