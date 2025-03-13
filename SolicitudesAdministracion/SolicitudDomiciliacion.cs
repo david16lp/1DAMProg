@@ -1,17 +1,22 @@
-﻿/*Clase hija de Solicitud. Con atributos para indicar donde quieren cobrar 
-su nómina(Número de cuenta) más los atributos del padre(Solicitud).
-*/
+﻿/*
+ * Tipo de solicitud: domiciliación bancaria
+ */
 class SolicitudDomiciliacion : Solicitud {
-    protected string numCuenta;
+    private string cuenta;
 
-    public SolicitudDomiciliacion(string id, string fecha, string numCuenta, 
-        Administrativo admAsociado)
-        : base(id, fecha, admAsociado) {
-        this.numCuenta = numCuenta;
+    public string Cuenta {
+        get { return cuenta; }
+        set { cuenta = value; }
     }
 
-    public override string ToString() { 
-        return "Cambio Domiciliación. " + base.ToString() + " Núm cuenta: " + 
-            numCuenta + " DNI: " + admAsociado.GetDni();
+    public SolicitudDomiciliacion(string id, string fecha,
+        Administrativo administrativo, string cuenta)
+        : base(id, fecha, administrativo) {
+        this.Cuenta = cuenta;
+    }
+
+    public override string ToString() {
+        return "Cambio Domiciliación. " + base.ToString() +
+            "Núm cuenta " + cuenta + ". Admin " + administrativo.Dni;
     }
 }

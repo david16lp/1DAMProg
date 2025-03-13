@@ -1,0 +1,29 @@
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/bin/Debug/net6.0/SolicitudesAdministracion.exe
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/bin/Debug/net6.0/SolicitudesAdministracion.deps.json
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/bin/Debug/net6.0/SolicitudesAdministracion.runtimeconfig.json
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/bin/Debug/net6.0/SolicitudesAdministracion.dll
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/bin/Debug/net6.0/SolicitudesAdministracion.pdb
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.csproj.AssemblyReference.cache
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.AssemblyInfoInputs.cache
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.AssemblyInfo.cs
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.csproj.CoreCompileInputs.cache
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.dll
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/obj/Debug/net6.0/refint/SolicitudesAdministracion.dll
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.pdb
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.genruntimeconfig.cache
+C:/Users/Nacho/source/repos/SolicitudesAdministracion/SolicitudesAdministracion/obj/Debug/net6.0/ref/SolicitudesAdministracion.dll
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.AssemblyInfoInputs.cache
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.AssemblyInfo.cs
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.csproj.CoreCompileInputs.cache
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.dll
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/obj/Debug/net6.0/refint/SolicitudesAdministracion.dll
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.pdb
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/bin/Debug/net6.0/SolicitudesAdministracion
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/bin/Debug/net6.0/SolicitudesAdministracion.deps.json
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/bin/Debug/net6.0/SolicitudesAdministracion.runtimeconfig.json
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/bin/Debug/net6.0/SolicitudesAdministracion.dll
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/bin/Debug/net6.0/SolicitudesAdministracion.pdb
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/obj/Debug/net6.0/SolicitudesAdministracion.genruntimeconfig.cache
+/Users/david/Downloads/SolicitudesAdministracion 2/SolicitudesAdministracion/obj/Debug/net6.0/ref/SolicitudesAdministracion.dll

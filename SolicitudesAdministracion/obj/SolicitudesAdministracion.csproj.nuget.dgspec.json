@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dav\\Desktop\\Ejercicios\\SolicitudesAdministracion\\SolicitudesAdministracion\\SolicitudesAdministracion.csproj": {}
+    "/Users/david/Downloads/Practica_7_1/SolicitudesAdministracion/SolicitudesAdministracion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dav\\Desktop\\Ejercicios\\SolicitudesAdministracion\\SolicitudesAdministracion\\SolicitudesAdministracion.csproj": {
+    "/Users/david/Downloads/Practica_7_1/SolicitudesAdministracion/SolicitudesAdministracion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dav\\Desktop\\Ejercicios\\SolicitudesAdministracion\\SolicitudesAdministracion\\SolicitudesAdministracion.csproj",
+        "projectUniqueName": "/Users/david/Downloads/Practica_7_1/SolicitudesAdministracion/SolicitudesAdministracion.csproj",
         "projectName": "SolicitudesAdministracion",
-        "projectPath": "C:\\Users\\Dav\\Desktop\\Ejercicios\\SolicitudesAdministracion\\SolicitudesAdministracion\\SolicitudesAdministracion.csproj",
-        "packagesPath": "C:\\Users\\Dav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dav\\Desktop\\Ejercicios\\SolicitudesAdministracion\\SolicitudesAdministracion\\obj\\",
+        "projectPath": "/Users/david/Downloads/Practica_7_1/SolicitudesAdministracion/SolicitudesAdministracion.csproj",
+        "packagesPath": "/Users/david/.nuget/packages/",
+        "outputPath": "/Users/david/Downloads/Practica_7_1/SolicitudesAdministracion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dav\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/david/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -34,16 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -55,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/RuntimeIdentifierGraph.json"
         }
       }
     }

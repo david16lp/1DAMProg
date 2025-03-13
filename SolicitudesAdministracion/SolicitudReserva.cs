@@ -1,24 +1,44 @@
-﻿/*Clase hija de Solicitud. Con atributos para reservar un espacio público más 
-los atributos del padre(Solicitud).
-*/
+﻿/*
+ * Tipo de solicitud: reserva de espacios públicos
+ */
 class SolicitudReserva : Solicitud {
-    protected string espacioReserva;
-    protected string fecha;
-    protected string horaInicio;
-    protected int duracion;
+    private string espacio;
+    private string fechaReserva;
+    private string horaInicio;
+    private int horas;
 
-    public SolicitudReserva(string id, string fecha, string espacioReserva,
-        string horaInicio, int duracion, Administrativo admAsociado)
-        : base(id, fecha, admAsociado) {
-        this.espacioReserva = espacioReserva;
-        this.horaInicio = horaInicio;
-        this.duracion = duracion;
+    public string Espacio {
+        get { return espacio; }
+        set { espacio = value; }
+    }
+
+    public string FechaReserva {
+        get { return fechaReserva; }
+        set { fechaReserva = value; }
+    }
+
+    public string HoraInicio {
+        get { return horaInicio; }
+        set { horaInicio = value; }
+    }
+
+    public int Horas {
+        get { return horas; }
+        set { horas = value; }
+    }
+
+    public SolicitudReserva(string id, string fecha,
+        Administrativo administrativo, string espacio, string fechaReserva,
+        string horaInicio, int horas) : base(id, fecha, administrativo) {
+        this.Espacio = espacio;
+        this.FechaReserva = fechaReserva;
+        this.HoraInicio = horaInicio;
+        this.Horas = horas;
     }
 
     public override string ToString() {
-        return "Reserva de Espacios. " + base.ToString() + " Espacio: " +
-            espacioReserva + " Fecha de Reserva: " + fecha + "Hora: " +
-            horaInicio + " Duración: " + duracion + " DNI: " +
-            admAsociado.GetDni();
+        return "Reserva Espacio. " + base.ToString() + espacio + " el " +
+            fecha + " a las " + horaInicio + " durante " + horas + " horas" +
+            ". Admin " + administrativo.Dni;
     }
 }

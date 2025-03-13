@@ -1,29 +1,33 @@
-﻿/* Clase con los datos del personal administrativo, asociación uno a muchos
-con la clase Solicitud. Asociación unidireccional desde Solicitud.*/
+﻿/*
+ * Personal administrativo que atiende las solicitudes
+ */
 class Administrativo {
-    protected string nombre;
-    protected string dni;
-    protected int telefono;
+    private string dni;
+    private string nombre;
+    private string telefono;
 
-    public Administrativo(string nombre, string dni, int telefono) {
-        this.nombre = nombre;
-        this.dni = dni;
-        this.telefono = telefono;
+    public string Dni {
+        get { return dni; }
+        set { dni = value; }
     }
 
-    public string GetDni() {
-        return dni;
+    public string Nombre {
+        get { return nombre; }
+        set { nombre = value; }
     }
 
-    public void SetDni(string dni) {
-        this.dni = dni;
+    public string Telefono {
+        get { return telefono; }
+        set { telefono = value; }
     }
 
-    public string GetNombre() {
-        return nombre;
+    public Administrativo(string dni, string nombre, string telefono) {
+        this.Dni = dni;
+        this.Nombre = nombre;
+        this.Telefono = telefono;
     }
 
-    public int GetTelefono() {
-        return telefono;
+    public override string ToString() {
+        return dni + ": " + nombre + ", " + telefono;
     }
 }

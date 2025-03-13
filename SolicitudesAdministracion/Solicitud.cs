@@ -1,41 +1,33 @@
-﻿/* Clase padre de SolicitudDomiciliacion, SolicitudTasas y SolicitudReserva.
- Con redefinición del método ToString para imprimir la información de 
- cada solicitud. También incluye el Administrativo asociado.*/
+﻿/*
+ * Clase padre de todos los tipos de solicitudes
+ */
 class Solicitud {
     protected string id;
     protected string fecha;
-    protected Administrativo admAsociado;
+    protected Administrativo administrativo;
 
-    public string GetId() {
-        return id;
-    }
-    public void SetID(string id) {
-        this.id = id;
+    public string Id {
+        get { return id; }
+        set { id = value; }
     }
 
-    public string GetFecha() {
-        return fecha;
+    public string Fecha {
+        get { return fecha; }
+        set { fecha = value; }
     }
 
-    public void SetFecha(string fecha) {
-        this.fecha = fecha;
+    public Administrativo Administrativo {
+        get { return administrativo; }
+        set { administrativo = value; }
     }
 
-    public Solicitud(string id, string fecha, Administrativo admAsociado) {
-        this.id = id;
-        this.fecha = fecha;
-        this.admAsociado = admAsociado;
-    }
-
-    public Administrativo GetAdmAsociado() {
-        return admAsociado;
-    }
-
-    public void SetAdmAsociado(Administrativo admAsociado) {
-        this.admAsociado = admAsociado;
+    public Solicitud(string id, string fecha, Administrativo administrativo) {
+        this.Id = id;
+        this.Fecha = fecha;
+        this.Administrativo = administrativo;
     }
 
     public override string ToString() {
-        return id + ". " + "Realizada el " + fecha;
+        return "ID " + id + ". Realizada el " + fecha + ". ";
     }
 }
